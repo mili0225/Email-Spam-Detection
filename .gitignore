@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Duplicate dataset files
+sms+spam+collection.zip
+sms+spam+collection/
+
+# Environment variables
+.env
